@@ -42,7 +42,7 @@ model-viewer {
   box-shadow: none;
   height: 32px;
   pointer-events: none;
-  width: 32px;
+  width: 40px;
 }
 
 .Hotspot:focus {
@@ -69,10 +69,27 @@ model-viewer {
   left: calc(100% + 1em);
   max-width: 128px;
   overflow-wrap: break-word;
-  padding: 0.5em 1em;
+  padding: 1em 1em;
   position: absolute;
   top: 50%;
   width: max-content;
+}
+
+p {
+color: gray;
+font-size: 12px;
+line-height: normal;
+}
+
+h2 {
+  color: black;
+  font-size: 14px;
+  line-height: normal;
+}
+
+image {
+  width: 50%;
+  margin-bottom: 5px;
 }
 
 .Hotspot:not([data-visible]) > * {

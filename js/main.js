@@ -7,27 +7,27 @@
   
     const infoBoxes = [
       {
-        // images: ["images/mic.png"],
+        images: ["images/mic.png"],
         title: "Outer Mic",
         text: "Experience crystal-clear calls and voice commands with the advanced Outer Mic technology in our Samsung ear-pods. The strategically positioned microphone ensures noise reduction, allowing you to communicate effortlessly even in bustling environments. Stay connected and communicate with impeccable clarity.",
       },
       {
-        // images: ["images/air-flow.png"],
+        images: ["images/air-flow.png"],
         title: "Air Vents",
         text: "Our Beans Pro feature innovative Air Vents that offer an exceptional listening experience. These vents allow for controlled airflow, resulting in balanced audio and preventing the uncomfortable sensation of pressure buildup. Enjoy music that feels natural and immersive with every beat."
       },
       {
-        // images: ["images/battery.png"],
+        images: ["images/battery.png"],
         title: "Fast Charging Ports",
         text: "Never miss a beat with our Beans Pro' Fast Charging Ports. Boasting lightning-fast charging capabilities, you can enjoy hours of your favorite music with just a few minutes of charging. Keep the rhythm alive and your ear-pods ready to roll at all times."
       },
       {
-        // images: ["images/sensor.png"],
+        images: ["images/sensor.png"],
         title: "Sensor",
         text: "Elevate your interaction with your ear-pods through intelligent Sensor technology. Our Beans Pro are equipped with responsive sensors that recognize your touch, enabling you to play or pause music, answer calls, and more with a simple gesture. Seamlessly control your audio experience at your fingertips."
       },
       {
-        // images: ["images/mic2.png"],
+        images: ["images/mic2.png"],
         title: "Inner Mic",
         text: "Precision and clarity are at the core of our Beans Pro Inner Mic. Designed to capture your voice with the utmost accuracy, this microphone ensures your calls are as clear as if you were speaking face-to-face. Stay connected and engage in conversations with pristine sound quality."
       }
